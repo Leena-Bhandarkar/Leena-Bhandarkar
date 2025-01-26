@@ -1,16 +1,28 @@
-## Hi there 👋
+Hey, WaveHandGIF I'm Leena Bhandarkar a Full Stack Developer from India.
 
-<!--
-**Leena-Bhandarkar/Leena-Bhandarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer dedicated to creating innovative and efficient solutions to real-world problems.
 
-Here are some ideas to get you started:
+Profile view counter on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👀 Interests Software Development: Building scalable and reliable applications. Artificial Intelligence & Machine Learning: Exploring the power of AI to transform industries. Open Source: Contributing to and learning from the open-source community. Cloud Computing: Leveraging cloud platforms to deliver robust solutions.
+
+🌱 Currently Learning Advanced machine learning algorithms. Cloud-native development using platforms like AWS, Azure, and GCP. Best practices for DevOps and CI/CD pipelines.
+
+💞️ Looking to Collaborate On Open-source projects related to web development, AI/ML, or DevOps. Innovative startups or initiatives seeking technological expertise. Projects that focus on creating a positive impact in society.
+
+🛠️ Languages and Tools :
+Java  React  Spring  Material UI  Flutter  Redux   CSS  HTML  JavaScript  Firebase  Gatsby  MySQL  NodeJS  AWS  Git
+🔥 My Stats :
+
+
+Top Langs
+
+📫 How to Reach Me Email: leena14bhandarkar@gmail.com
+
+🌐 Socials:
+
+   
+😄 Pronouns He/Him
+
+⚡ Fun Fact I love solving puzzles and challenges that make me think outside the box—whether it's debugging code or tackling a new hobby like photography or traveling to unique places.
