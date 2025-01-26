@@ -31,7 +31,7 @@ Profile view counter on GitHub
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 🔥 My Stats :
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leena-Bhandarkar&" alt="Leena Bhandarkar"  /></p>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
 
 
 
