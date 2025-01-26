@@ -11,7 +11,7 @@ Profile view counter on GitHub
 
 💞️ Looking to Collaborate On Open-source projects related to web development, AI/ML, or DevOps. Innovative startups or initiatives seeking technological expertise. Projects that focus on creating a positive impact in society.
 
-🛠️ Languages and Tools :
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -31,7 +31,8 @@ Profile view counter on GitHub
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 🔥 My Stats :
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user="Leena-Bhandarkar" alt="GitHub Streak" /></a>
 
 
 
@@ -45,6 +46,6 @@ Top Langs
 🌐 Socials:
 
    
-😄 Pronouns He/Him
+😄 Pronouns She/Her
 
 ⚡ Fun Fact I love solving puzzles and challenges that make me think outside the box—whether it's debugging code or tackling a new hobby like photography or traveling to unique places.
