@@ -31,6 +31,11 @@ Profile view counter on GitHub
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 🔥 My Stats :
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leena-Bhandarkar&" alt="Leena Bhandarkar"  /></p>
+
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leena-Bhandarkar)](https://github.com/anuraghazra/github-readme-stats) </div>
 
 
 Top Langs
