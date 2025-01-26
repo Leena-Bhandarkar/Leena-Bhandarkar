@@ -32,7 +32,7 @@ Profile view counter on GitHub
 </div>
 🔥 My Stats :
 
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Leena-Bhandarkar " alt="GitHub Streak" /></a>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Leena-Bhandarkar " alt="GitHub Streak" height= "100" widdth = "100" /></a>
 
 
 
