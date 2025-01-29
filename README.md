@@ -16,14 +16,14 @@ technologies.</h3>
  <br/>
  
  -   ![](https://komarev.com/ghpvc/?username=DishaGupta27&color=blueviolet&style=plastic&label=VISITORS)
- -   <a href="https://github.com/DishaGupta27?tab=followers"><img src="https://img.shields.io/github/followers/DishaGupta27?label=Followers&style=social" alt="GitHub Badge"></a>
+ -   <a href="https://github.com/Leena-Bhandarkar?tab=followers"><img src="https://img.shields.io/github/followers/Leena-Bhandarkar?label=Followers&style=social" alt="GitHub Badge"></a>
   
 
 
 ## 💫 About Me:
 <img align="right" alt="coding" height="200px" width="350px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f">
 
-🙋‍♂️ All about me is at **[My Website](https://dishagupta-portfolio.netlify.app/)**<br><br>🌱 I’m currently learning **Node.js*<br><br> 📫 How to reach me **guptadisha313@gmail.com*<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/142w1fO95ZbdCjoYmAR7Jb1waKm3n411Y/view?usp=sharing)
+🙋‍♂️ All about me is at **[My Website](https://dishagupta-portfolio.netlify.app/)**<br><br>🌱 I’m currently learning **Node.js*<br><br> 📫 How to reach me **guptadisha313@gmail.com*<br><br>📄 Know about my experiences [Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67935302f7b3074e914550c3)
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/disha gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha gupta" height="30" width="40" /></a>
