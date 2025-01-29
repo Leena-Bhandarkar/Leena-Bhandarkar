@@ -23,7 +23,7 @@ technologies.</h3>
 ## 💫 About Me:
 <img align="right" alt="coding" height="200px" width="350px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f">
 
-🙋‍♂️ All about me is at **[My Website](https://dishagupta-portfolio.netlify.app/)**<br><br>🌱 I’m currently learning **Node.js*<br><br> 📫 How to reach me **guptadisha313@gmail.com*<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/142w1fO95ZbdCjoYmAR7Jb1waKm3n411Y/view?usp=sharing)
+🙋‍♂️ All about me is at **[My Website](https://dishagupta-portfolio.netlify.app/)**<br><br>🌱 I’m currently learning **Node.js*<br><br> 📫 How to reach me **guptadisha313@gmail.com*<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/11BiMxh32rLmaEgR0mkLr0_bFkTrXn7Dj/view?usp=sharing)
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/disha gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha gupta" height="30" width="40" /></a>
@@ -34,7 +34,7 @@ technologies.</h3>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Leena-Bhandarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DishaGupta27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Leena-Bhandarkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaGupta27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![Leena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leena-Bhandarkar&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/Leena-Bhandarkar/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=Leena-Bhandarkar&icon=0&color=0)](https://visitcount.itsvg.in)
