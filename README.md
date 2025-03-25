@@ -16,7 +16,7 @@ technologies.</h3>
  <br/>
  
  -   ![](https://komarev.com/ghpvc/?username=DishaGupta27&color=blueviolet&style=plastic&label=VISITORS)
- -   <a href="https://github.com/DishaGupta27?tab=followers"><img src="https://img.shields.io/github/followers/DishaGupta27?label=Followers&style=social" alt="GitHub Badge"></a>
+ -   <a href="https://github.com/Leena-Bhandarkar?tab=followers"><img src="https://img.shields.io/github/followers/Leena-Bhandarkar?label=Followers&style=social" alt="GitHub Badge"></a>
   
 
 
@@ -26,7 +26,7 @@ technologies.</h3>
 🙋‍♂️ All about me is at **[)**<br><br>🌱 I’m currently learning **Node.js*<br><br> 📫 How to reach me **leena14bhandarkar@gmail.com*<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/11BiMxh32rLmaEgR0mkLr0_bFkTrXn7Dj/view?usp=sharing)
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/leena-bhandarkar-17ba6830a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leena-bhandarkar-17ba6830a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leena Bhandarkar" height="30" width="40" /></a>
 
 
 ## 💻 Technologies and Tools I use:
