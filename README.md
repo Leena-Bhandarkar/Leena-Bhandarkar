@@ -35,6 +35,7 @@ technologies.</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Leena-Bhandarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leena-Bhandarkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaGupta27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leena-Bhandarkar&langs_count=10&theme=dark&hide_border=false&layout=compact)
+
 [![Leena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leena-Bhandarkar&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/Leena-Bhandarkar/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=Leena-Bhandarkar&icon=0&color=0)](https://visitcount.itsvg.in)
