@@ -8,10 +8,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/leena-bhandarkar-17ba6830a/"><img src="https://img.shields.io/badge/-Leena Bhandarkar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:leena14bhandarkar@gmail.com"><img src="https://img.shields.io/badge/-leena14bhandarkar@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://tikesh-portfolioprofile.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://starlit-biscotti-d96ba2.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250604T103551Z&X-Amz-Expires=300&X-Amz-Signature=dcee19ff625da03e762c0f505e6bffbfa7f95621c4749b0cfa888f69624c8037&X-Amz-SignedHeaders=host">
 
 ## 🚀 About Me
 
